@@ -1,0 +1,2 @@
+class Authentic < ApplicationRecord
+end
